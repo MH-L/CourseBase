@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * Created by Minghao on 10/5/2015.
+ * Created by Kelvin and Linda on 10/5/2015.
  */
 public class MainActivity extends Activity {
     @Override
